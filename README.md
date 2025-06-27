@@ -20,6 +20,9 @@ UnrealEngineToolDev is a collection of custom tools I use when developing with U
   - **中**：示範如何在指定位置列表中隨機生成不同的 Static Mesh，並套用隨機旋轉與縮放。  
   - **EN**: Demonstrates how to randomly spawn different Static Meshes at specified target locations, applying random rotation and scale.
 
+- **Popcorn**   
+  
+
 ---
 
 ## BP_SingleAssetVariation
@@ -62,6 +65,16 @@ https://www.youtube.com/watch?v=DlrPtW1X0us
   3. Configure the **Rotation Range** (e.g., 0–360) and **Scale Range** (e.g., 0.8–1.2) to control the random rotation and scaling.  
      ![Step 3: Configure Rotation & Scale Ranges](https://github.com/user-attachments/assets/542ab6df-0650-4ddf-9efc-03c35d3e9629)  
   4. After adjusting parameters, the Blueprint updates automatically in the editor—no need to run the game or perform additional steps.  
+
+---
+
+## Popcorn
+
+- **中**： 
+已新增 Popcorn 範例，直接複製整個/Game/Popcorn資料夾後，開啟示範地圖/Game/Popcorn/LV_Popcorn
+
+- **EN**: 
+Added a Popcorn example. Simply duplicate the entire /Game/Popcorn folder, then open the demo level: /Game/Popcorn/LV_Popcorn to see how it works.
 
 ---
 
