@@ -70,13 +70,20 @@ https://www.youtube.com/watch?v=DlrPtW1X0us
 
 ## Popcorn
 
+### 使用方式 (Usage)
+
 - **中**： 
-已新增 Popcorn 範例，直接複製整個/Game/Popcorn資料夾後，開啟示範地圖/Game/Popcorn/LV_Popcorn
+  1. 已新增 Popcorn 範例，直接複製整個/Game/Popcorn資料夾後，開啟示範地圖/Game/Popcorn/LV_Popcorn
+  2. 打開專案設定，導航到地圖與模式，並將預設的角色類別（Pawn Class）替換為 /All/Game/Popcorn/Blueprint/BP_Pawn。
+     ![Screenshot 2025-06-27 162649](https://github.com/user-attachments/assets/3d582ae2-7c50-4398-9ec6-c139de602be4)
+![Screenshot 2025-06-27 163046](https://github.com/user-attachments/assets/987f6e05-5975-4b1e-8b02-4c79bb9968d8)
 
 - **EN**: 
-Added a Popcorn example. Simply duplicate the entire /Game/Popcorn folder, then open the demo level: /Game/Popcorn/LV_Popcorn to see how it works.
+  1. Added a Popcorn example. Simply duplicate the entire /Game/Popcorn folder, then open the demo level: /Game/Popcorn/LV_Popcorn to see how it works.
+  2. Open Project Settings, navigate to Maps & Modes, and replace the default Pawn Class with /All/Game/Popcorn/Blueprint/BP_Pawn.
+---![Screenshot 2025-06-27 162649](https://github.com/user-attachments/assets/3d582ae2-7c50-4398-9ec6-c139de602be4)
+![Screenshot 2025-06-27 163046](https://github.com/user-attachments/assets/987f6e05-5975-4b1e-8b02-4c79bb9968d8)
 
----
 
 ##### 感謝使用與觀看教學影片！  
 ##### Thank you for using this tool and watching the tutorial!  
